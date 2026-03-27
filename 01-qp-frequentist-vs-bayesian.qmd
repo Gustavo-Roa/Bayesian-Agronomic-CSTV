@@ -2,7 +2,7 @@
 title: "Frequentist and Bayesian Quadratic-Plateau Models for Critical Soil Test Value Estimation"
 subtitle: "Bootstrap Confidence Intervals and Bayesian Credible Intervals"
 author: "Gustavo A. Roa"
-date: "2026-02-17"
+date: "2026-03-27"
 format:
   html:
     toc: true
@@ -199,7 +199,7 @@ newdat_BQP$BQP_upr  <- apply(epred, 2, quantile, 0.975)
 
 ## Final comparison figure
 
-```{r fig.height=8, fig.width=10}
+```{r fig.height=10, fig.width=10}
 
 # Create the plot
 ggplot() + 

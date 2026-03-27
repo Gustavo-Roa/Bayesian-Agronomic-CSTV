@@ -2,7 +2,7 @@
 title: "Estimating Critical Soil Test Values Using Bayesian Model Averaging"
 subtitle: "Tutorial in brms and Bridge Sampling"
 author: "Gustavo A. Roa"
-date: "2026-02-17"
+date: "2026-03-27"
 format:
   html:
     toc: true
