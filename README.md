@@ -5,7 +5,7 @@ This repository provides reproducible code accompanying the manuscript:
 Roa, G.A., Spooner, J., Kerns, A.W., Hefley, T.J., & Ruiz Diaz, D.A.  
 *Bayesian Methods for Estimation Under Uncertainty: A Critical Soil Test Value Application*  
 
-DOI (Zenodo archive): https://doi.org/XXXXX
+DOI (Zenodo archive): https://doi.org/10.5281/zenodo.19268283
 ---
 
 ## Purpose
@@ -71,4 +71,4 @@ If using this repository, please cite:
 Roa, G.A., Spooner, J., Kerns, A.W., Hefley, T.J., & Ruiz Diaz, D.A.  
 *Bayesian inference for agronomic response models: A critical soil test value application*  
 
-Roa, G.A. (2026). Bayesian agronomic CSTV (Version X.X) [Code]. Zenodo. https://doi.org/XXXXX
+Roa, G.A. (2026). Code for Bayesian inference for agronomic response models: A critical soil test value application (v1.0.0) [Code]. Zenodo. https://doi.org/10.5281/zenodo.19268283
